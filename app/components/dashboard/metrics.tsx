@@ -4,7 +4,7 @@ import { LineChart, Activity, GitPullRequest } from 'lucide-react'
 
 const metrics = [
   {
-    label: 'Productivity Score',
+    label: 'Productivity score ',
     value: '85%',
     change: '+5%',
     icon: LineChart,
